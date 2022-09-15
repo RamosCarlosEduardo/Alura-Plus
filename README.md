@@ -21,7 +21,7 @@ Note: This site has no responsivity, it was made and finished under the desktop 
 
 Foi um pequeno projeto da Alura, dentro de um curso para prática de HTML e CSS.
 
-Nota: Este site não possui responsiidade, ele foi feito e finalizado no modelo *desktop first*.
+Nota: Este site não possui responsividade, ele foi feito e finalizado no modelo *desktop first*.
 
 | 🪧 Vitrine.Dev  |     |
 | -------------- | --- |
