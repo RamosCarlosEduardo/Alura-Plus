@@ -14,8 +14,8 @@ Note: This site has no responsivity, it was made and finished under the desktop 
 | -------------- | --- |
 | ✨ Name        | **Alura Plus** |
 | 🏷️ Technologies | HTML e CSS  |
-| 🚀 URL         | [**Acesse o site**](https://ramoscarloseduardo.github.io/Alura-Plus/) |
-| 🔥 Challenge     | [**Protótipo do Figma**](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout) |
+| 🚀 URL         | [**Go to the website**](https://ramoscarloseduardo.github.io/Alura-Plus/) |
+| 🔥 Challenge     | [**Figma's prototype**](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout) |
 
 <h1 align="center" font-size="30px"> Alura Plus <sup>:brazil:</sup></h1>
 
